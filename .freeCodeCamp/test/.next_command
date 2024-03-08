@@ -36,3 +36,4 @@ chmod ls- l
 chmod ls -l
 ./questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
