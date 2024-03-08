@@ -42,3 +42,4 @@ chmod ls -l
 --help echo
 echo --help
 man echo
+man echo
