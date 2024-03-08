@@ -80,3 +80,4 @@ echo $?
 [[ 10 -ne 3 ]]
 [[ 10 -ne 3 ]]
 [[ 10 -ne 5 ]]
+bad_command
